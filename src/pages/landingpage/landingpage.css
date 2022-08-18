@@ -1,0 +1,45 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.content{
+    background-image:url(../../images/background.jpeg); 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 36.7vh;
+}
+.navbar{
+    background:linear-gradient( 00000000, rgb(37, 35, 166) 0%, rgb(170, 14, 84) 100% );
+    color: white;
+}
+.content{
+    color:  rgb(170, 14, 84);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+
+    padding: 200px;
+}
+.content button{
+    margin-top: 20px;
+    color: white;
+    background-color: rgb(37, 35, 166);
+    justify-content: space-between;
+    font-size: 20px;
+    width: 150px;
+    height: 35px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.content a{
+    color: white;
+    text-decoration: none;
+
+}
+.content h1{
+   
+    /* color:linear-gradient( 00000000, rgb(37, 35, 166) 0%, rgb(170, 14, 84) 100%) ; */
+    font-size: 75px;
+    margin-top: 20px;
+
+}

@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.verified{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url(../../images/compute.avif);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin-top: 0%;
+}
+
+.verify button{
+    background:linear-gradient( 00000000, rgb(37, 35, 166) 0%, rgb(170, 14, 84) 100% );
+    font-size: 20px;
+}
